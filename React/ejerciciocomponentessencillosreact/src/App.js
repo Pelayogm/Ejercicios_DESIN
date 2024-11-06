@@ -1,6 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
 import Ejercicio_1 from './Ejercicio_1';
+import Ejercicio_2 from './Ejercicio_2';
+import Ejercicio_3 from './Ejercicio_3';
+import Ejercicio_4 from './Ejercicio_4';
+import Ejercicio_5 from './Ejercicio_5';
 
 function App() {
   return (
@@ -11,6 +15,15 @@ function App() {
       <body className="App-header">
         <p>Ejercicio_1</p>
         <Ejercicio_1/>
+        <br/>
+        <p>Ejercicio_2</p>
+        <Ejercicio_2/>
+        <p>Ejercicio_3</p>
+        <Ejercicio_3/>
+        <p>Ejercicio_4</p>
+        <Ejercicio_4/>
+        <p>Ejercicio_5</p>
+        <Ejercicio_5/>
       </body>
     </div>
   );
