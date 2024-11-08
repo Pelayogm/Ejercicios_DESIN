@@ -23,6 +23,7 @@ function App() {
         <p>Ejercicio_4</p>
         <Ejercicio_4/>
         <p>Ejercicio_5</p>
+        <p>Disponible para busqueda: CUPRA Leon, Clase C, Austral, Tiguan, Corolla, 508, A6, XC60, Octavia, SEAT Leon, Megane, Ibiza, Ateca, Passat.</p>
         <Ejercicio_5/>
       </body>
     </div>
